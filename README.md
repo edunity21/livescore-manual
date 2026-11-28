@@ -7,7 +7,12 @@ OPEN SCORE Vol.01 부록 · 2026. 12. 수업나눔페스타
 - 학생용: https://edunity21.github.io/livescore-manual/student.html
 - 플랫폼: https://edunity21.github.io/livescore/
 
-플랫폼 v11(2026. 11. 28.) 실제 화면으로 작성했습니다. 그림(assets/*.webp)은 예시곡 「우리들의 아침」과 수노 오케스트라 곡 「꿈길 위에 별 하나」로 찍었고, 빨간 번호는 본문 설명 순서입니다.
+플랫폼 v12(2026. 11. 28.) 실제 화면으로 작성했습니다. 그림(assets/*.webp)은 예시곡 「우리들의 아침」과 수노 오케스트라 곡 「꿈길 위에 별 하나」로 찍었고, 빨간 번호는 본문 설명 순서입니다.
+
+## v12에서 바뀐 곳
+
+- 05장 음원으로 악보 만들기: 노래(Vocals) MIDI로 몇 초 만에 만들기, 그림 다시 찍음, 정확도·문제 해결(‘Unable to decode audio data’) 보강
+- 학생용 ‘더 해 보기’: 노래 MIDI 안내
 
 ## v11에서 바뀐 곳
 
